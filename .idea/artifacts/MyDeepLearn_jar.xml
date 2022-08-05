@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyDeepLearn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyDeepLearn_jar</output-path>
+    <root id="archive" name="MyDeepLearn.jar">
+      <element id="module-output" name="MyDeepLearn" />
+      <element id="extracted-dir" path="I:/java/mylibriry/JCuda-All-11.2.0/jcuda-11.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
